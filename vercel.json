@@ -1,6 +1,5 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://picapes.syanic.org", "permanent": false },
     { "source": "/capeChange", "destination": "https://picapes.syanic.org", "permanent": false }
   ],
   "rewrites": [
